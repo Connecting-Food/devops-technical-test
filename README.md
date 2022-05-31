@@ -16,8 +16,8 @@
 ## Submission
 Helm chart and workflow should be saved on a private `candidate/connecting-food-devops-test` repository on your github account.
 Access should be granted to 2 members of the `connecting-food` group:
-* <https://github.com/nmilon-cf>
-* <https://github.com/jhammout02>
+* <https://github.com/nicolasramy>
+* <https://github.com/HuikanXiang>
 ## Expected repo structure
 ```bash
 $ tree .
